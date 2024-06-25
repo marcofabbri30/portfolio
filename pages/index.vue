@@ -1,5 +1,9 @@
 <template>
-    <div class="container mx-auto px-4">
+    <div>
+      <HeroSection></HeroSection>
+      <Services></Services>
+    </div>
+    <div class="container mx-auto px-6">
       <header class="py-6">
         <h1 class="text-4xl font-bold">My Blog</h1>
         <p class="text-lg text-gray-600">Welcome to my personal blog where I share my thoughts and experiences.</p>
